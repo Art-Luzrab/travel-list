@@ -1,2 +1,2 @@
-Lecture Based React App
+Lecture Based React App:
 Travel To Do List
